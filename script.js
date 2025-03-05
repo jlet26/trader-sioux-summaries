@@ -25,11 +25,11 @@ jqueryScript.onload = function() {
         'ETH-BTC': [64, 0],
         'PAXG-USDT': [73, 0],
         'BGB-ETH': [77, 0],
-        'BGB-BTC': [78, 0],
+        'TRX-BTC': [78, 0],
         'TRX-USDT': [79, 0],
         'TRX-ETH': [84, 0],
         
-        'BLAST-USDT': [58, 0],
+        'MX-USDT': [58, 0],
         'AR-USDT': [69, 0]
     };
     let ponderation = [6,1,2,4,8,16,36];
